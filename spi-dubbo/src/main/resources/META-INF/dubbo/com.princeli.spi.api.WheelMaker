@@ -1,0 +1,3 @@
+adaptive = com.princeli.spi.dubbo.adaptive.AdaptiveWheelMaker
+default = com.princeli.spi.dubbo.adaptive.DefaultWheelMaker
+michelin = com.princeli.spi.dubbo.adaptive.MichelinWheelMaker

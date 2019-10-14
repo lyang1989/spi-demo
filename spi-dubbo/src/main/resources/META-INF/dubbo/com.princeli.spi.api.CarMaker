@@ -1,0 +1,2 @@
+familycar = com.princeli.spi.dubbo.adaptive.FamilyCarMaker
+racecar = com.princeli.spi.dubbo.adaptive.RaceCarMaker
